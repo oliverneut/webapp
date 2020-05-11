@@ -1,0 +1,6 @@
+# Build folders
+dist/
+
+# Cache
+node_modules/
+
