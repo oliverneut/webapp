@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-          <a class="title" href=""> <div class="surname" >Oliver</div> <div class="name">Neut</div> </a>
+          <a class="title" href="https://oliverneut.com"> <div class="surname" >Oliver</div> <div class="name">Neut</div> </a>
           <nav>
               <ul class="nav_links">
                   <li><router-link to="/home">Home</router-link></li>
