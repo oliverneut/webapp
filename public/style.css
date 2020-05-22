@@ -7,6 +7,7 @@
     font-family: sfo1;
     src: url(/SanFranciscoFont/SanFranciscoDisplay-Medium.otf);
 }
+
 html {
     overflow: hidden;
     height: 100%;
@@ -25,7 +26,7 @@ body {
     font-family: sfo, arial;
 }
 
-li, a {
+li, a, p {
     font-family: sfo, arial;
     font-size: 14px;
     color: white;
@@ -90,5 +91,3 @@ a > div {
     background-color: black;
     height: 1000px;
 }
-
-

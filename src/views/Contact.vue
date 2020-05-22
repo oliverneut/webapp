@@ -1,15 +1,23 @@
 <template>
-    <div>
-
+    <div class="contact" >
+        <ContactForm/>
     </div>
 </template>
 
 <script>
+    import ContactForm from '../components/ContactForm'
+
     export default {
-        
+        name: 'Contact',
+        components: {
+            ContactForm
+        }
     }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
+    *{
+        color: white;
+    }
 </style>

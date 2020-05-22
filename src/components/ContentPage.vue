@@ -1,15 +1,6 @@
 <template>
     <div class="content">
-        <p>EWOOOOOO</p>
-        <br>
-        <p>EWOOOOOO</p>
-        <br>
-        <p>EWOOOOOO</p>
-        <br>
-        <p>EWOOOOOO</p>
-        <br>
-
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error assumenda nisi libero ex eum repellendus, nulla, sequi reprehenderit asperiores nihil distinctio ab ea nemo minima quam porro. Hic, minima porro.</p>
+        <img class="hockney" src="../assets/large_art_Hockney.jpg" alt="">
     </div>
 </template>
 
@@ -20,8 +11,17 @@ export default {
 </script>
 
 <style scoped>
-    p {
-        font-size: 40px;
-        color: white;
+
+    .content {
+        padding-top : 10px;
+        padding-left: 100px;
+        padding-right: 100px;
     }
+    .hockney {
+        max-width: 1000px;
+        justify-content: space-between;
+        right: 0;
+        left: 100px;
+    }
+
 </style>

@@ -1,6 +1,9 @@
 <template>
   <div class="home">
-    <H1>EQOWOOQW</H1>
+    <br>
+    <br>
+    <br>
+    <br>
     <ContentPage/>
   </div>
 </template>
@@ -16,3 +19,8 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+  
+
+</style>
