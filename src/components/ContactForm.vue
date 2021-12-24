@@ -218,7 +218,7 @@
     display: inline-block;
     box-sizing: border-box;
     border: none;
-    border-radius: 4px;
+    border-radius: 6px;
     padding: 0 16px;
     min-width: 64px;
     height: 36px;
